@@ -1,6 +1,6 @@
 #include <string.h>
 
-#include "microhttpd.h"
+#include <microhttpd.h>
 #include "prom.h"
 
 prom_collector_registry_t *PROM_ACTIVE_REGISTRY;
